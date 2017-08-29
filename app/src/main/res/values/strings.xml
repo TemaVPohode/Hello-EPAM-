@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello EPAM!</string>
+    <string name="_hello_button">Hello EPAM!</string>
+    <string name="_hello_toast">Hello EPAM!</string>
+</resources>
